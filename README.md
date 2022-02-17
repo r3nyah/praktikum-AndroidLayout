@@ -1,5 +1,5 @@
 
-<h3 align=center>praktikum-Android Layout</h3>
+<h3 align=center>praktikum-AndroidLayout</h3>
 
 > # Latihan Activity (1)
 ![ssan](https://github.com/r3nyah/praktikum-AndroidLayout/blob/master/Assets/Screenshot_2022-02-17-06-49-34-164_www.smktelkommlg.praktikumlayout.jpg?raw=true)
